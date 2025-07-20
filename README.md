@@ -25,7 +25,7 @@ Given historical loan data, predict whether a new applicant is likely to default
 
 | File | Description |
 |------|-------------|
-| `loan_default_model.ipynb` | Full code notebook including preprocessing, training, evaluation |
+| `Loan Default Prediction using Logistic Regression.ipynb` | Full code notebook including preprocessing, training, evaluation |
 | `feature_correlation.png` | Correlation heatmap (EDA insight) |
 | `roc_comparison.png` | ROC comparison of all models |
 | `loan_data.csv` | Dataset from Kaggle: [Kaggle Link](https://www.kaggle.com/datasets/ninzaami/loan-predication) |
